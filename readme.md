@@ -1,3 +1,3 @@
 # Kata CSS
 
-[Banner mercadotecnia](./vacunate.png)
+<img src="./vacunate.png" alt="vacunate" width="650px"/>
